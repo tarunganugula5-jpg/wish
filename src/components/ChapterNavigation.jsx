@@ -83,7 +83,7 @@ export default function ChapterNavigation({ activeSection, onNavigate }) {
                     Our Story Index
                   </h3>
                   <p className="font-cormorant italic text-xs text-[#785942]">
-                    Tarun & Tejeswini
+                    Tarun & Tejaswini
                   </p>
                 </div>
                 <button

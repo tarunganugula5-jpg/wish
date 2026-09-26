@@ -30,7 +30,7 @@ export default function BirthdayReveal({ onProceedToLetter, onOpenLightbox }) {
       setTimeout(() => setPhase(3), 4800), // 26 • 09
       setTimeout(() => setPhase(4), 7000), // Screen dark, candle appears
       setTimeout(() => {
-        setPhase(5); // Happy Birthday Tejeswini Reveal + Golden Sparks
+        setPhase(5); // Happy Birthday Tejaswini Reveal + Golden Sparks
         launchElegantSparks();
       }, 9200),
     ];

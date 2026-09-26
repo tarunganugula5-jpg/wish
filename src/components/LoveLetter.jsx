@@ -54,7 +54,7 @@ export default function LoveLetter({ onProceedToFuture }) {
 
                 <div className="space-y-1">
                   <p className="font-cinzel text-sm sm:text-base font-bold text-[#2a170d] tracking-widest uppercase">
-                    For Tejeswini (Kanna Amma)
+                    For Tejaswini (Kanna Amma)
                   </p>
                   <p className="font-cormorant italic text-sm text-[#785942]">
                     Written with all my heart • Tap to open

@@ -219,7 +219,7 @@ export default function ChapterSection({
             {chapterKey === 'chapter1' && (
               <VintageImage
                 src="./memories/meet.jpg"
-                alt="Tejeswini Diploma 1st Year"
+                alt="Tejaswini Diploma 1st Year"
                 caption="Diploma First Year — Quiet and Innocent"
                 memoryId={1}
                 aspectRatio="aspect-[4/3]"

@@ -163,15 +163,15 @@ export default function ConfessionScene({ onOpenLightbox }) {
             <div className="relative">
               <VintageImage
                 src="./memories/meet5.jpg"
-                alt="Tejeswini"
-                caption="Tejeswini (Kanna Amma) — Confessing her love"
+                alt="Tejaswini"
+                caption="Tejaswini (Kanna Amma) — Confessing her love"
                 memoryId={7}
                 aspectRatio="min-h-[300px] sm:min-h-[380px] max-h-[440px]"
                 onClick={() =>
                   onOpenLightbox &&
                   onOpenLightbox({
                     id: 7,
-                    title: '15 March 2025 — Tejeswini',
+                    title: '15 March 2025 — Tejaswini',
                     teluguTitle: 'ప్రేమగా మారిన స్నేహం',
                     displayDate: '15 March 2025',
                     description:

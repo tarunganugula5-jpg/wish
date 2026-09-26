@@ -3,7 +3,7 @@
 
 export const storyData = {
   names: {
-    herName: "Tejeswini",
+    herName: "Tejaswini",
     herNickname: "Kanna Amma",
     myName: "Tarun Venkata Swamy",
     myNickname: "Nanna",
@@ -21,8 +21,8 @@ export const storyData = {
     ],
     herIntro: {
       lead: "There was a girl.",
-      name: "Tejeswini.",
-      quote: "To the world, Tejeswini.\nKanna Amma, to me.",
+      name: "Tejaswini.",
+      quote: "To the world, Tejaswini.\nKanna Amma, to me.",
     },
     hisIntro: {
       lead: "And somewhere in her story...",
@@ -42,7 +42,7 @@ export const storyData = {
     era: "Diploma First Year",
     content: [
       "The story begins quietly, during the first year of our diploma.",
-      "Back then, Tejeswini was always wearing a mask. Behind that mask was a girl who looked innocent, quiet, calm... and honestly, a little afraid of everything around her.",
+      "Back then, Tejaswini was always wearing a mask. Behind that mask was a girl who looked innocent, quiet, calm... and honestly, a little afraid of everything around her.",
       "She kept to herself, observing the bustling college crowd with cautious eyes.",
     ],
     humorNote: [
@@ -233,7 +233,7 @@ export const storyData = {
     prelude4: "the story belongs entirely to you.",
     dateTag: "26 • 09",
     heading: "HAPPY BIRTHDAY",
-    name: "TEJESWINI",
+    name: "TEJASWINI",
     subheading: "Happy Birthday, Kanna Amma ❤️",
     signoff: "— Your Nanna",
   },

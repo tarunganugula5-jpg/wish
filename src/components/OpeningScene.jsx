@@ -14,7 +14,7 @@ export default function OpeningScene({ onProceed }) {
       setTimeout(() => setStep(2), 2000),  // "Not in a movie."
       setTimeout(() => setStep(3), 3400),  // "Not in a storybook."
       setTimeout(() => setStep(4), 4800),  // "But somewhere inside our ordinary diploma life..."
-      setTimeout(() => setStep(5), 6800),  // "There was a girl." -> Tejeswini frame
+      setTimeout(() => setStep(5), 6800),  // "There was a girl." -> Tejaswini frame
       setTimeout(() => setStep(6), 9600),  // "And somewhere in her story... Tarun -> Nanna ❤️"
       setTimeout(() => setStep(7), 12500), // "Our Story — Still being written..."
     ];
@@ -79,7 +79,7 @@ export default function OpeningScene({ onProceed }) {
           </AnimatePresence>
         </div>
 
-        {/* Step 5: There was a girl -> Tejeswini / Kanna Amma with REAL PHOTO */}
+        {/* Step 5: There was a girl -> Tejaswini / Kanna Amma with REAL PHOTO */}
         <AnimatePresence>
           {step >= 5 && (
             <motion.div
@@ -96,8 +96,8 @@ export default function OpeningScene({ onProceed }) {
               <div className="w-72 sm:w-84 max-w-full drop-shadow-2xl">
                 <VintageImage
                   src="./memories/meet-saree.jpg"
-                  alt="Tejeswini"
-                  caption="Tejeswini (Kanna Amma) ❤️"
+                  alt="Tejaswini"
+                  caption="Tejaswini (Kanna Amma) ❤️"
                   memoryId={13}
                   aspectRatio="min-h-[340px] sm:min-h-[420px] max-h-[500px]"
                   showTape={true}
@@ -106,10 +106,10 @@ export default function OpeningScene({ onProceed }) {
 
               <div className="space-y-1">
                 <h2 className="font-cinzel text-2xl sm:text-4xl font-bold text-[#f5ebd9] tracking-wider">
-                  Tejeswini.
+                  Tejaswini.
                 </h2>
                 <p className="font-cormorant italic text-lg sm:text-2xl text-[#c5a687]">
-                  To the world, Tejeswini.
+                  To the world, Tejaswini.
                   <br />
                   <span className="text-[#ffd700] font-semibold not-italic font-handwriting text-3xl">
                     Kanna Amma, to me.
